@@ -1,15 +1,25 @@
 {
-  "name": "@abhishek-shukla/web-gen",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@abhishek-shukla/webgen",
+  "version": "1.0.3",
+  "description": "webgen is a command line utility to generate desired HTML , CSS and JS files all linked to get you up and running in no time so that you can code your next project without any hassle",
   "main": "index.js",
   "bin": {
     "webgen": "binary"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abhishek-Shukla-github/webgen.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "webgen",
+    "JS",
+    "HTML",
+    "CSS",
+    "web"
+  ],
   "author": "",
   "license": "ISC"
 }
