@@ -1,4 +1,5 @@
 # Webgen :- The command line utility to generate files for your next web dev project.
+## [NPM Page](https://www.npmjs.com/package/web-generate)
 
 ## Installation :- 
 ````
